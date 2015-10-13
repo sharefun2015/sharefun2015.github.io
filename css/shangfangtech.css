@@ -1,0 +1,39 @@
+body {
+	font-family: Arial, "Microsoft Yahei" ,Helvetica, sans-serif;
+}
+.section { 
+	text-align: center; font: 30px ; color: #fff;
+}
+.container {
+    min-width: 1500px;
+}
+.section1 {	
+	background-image:url(../images/1.jpg);
+}
+.section1 h3{	
+	font-size:70px;
+	line-height:70px;
+}
+.section21 { 
+	background-image:url(../images/21.jpg);
+}
+.section21 h3{
+	font-size:70px;
+}
+.section21 p{	
+	font-size:25px;
+}
+.section22 { 
+	background-image: url(../images/89AZTB8E5H.jpg);
+	color:#000000;
+	vertical-align:middle;
+}
+.section22 h3{	
+	font-size:70px;
+}
+.section22 p{	
+	font-size:25px;
+}
+.section23 { 
+	background-image:url(../images/23.jpg);
+}

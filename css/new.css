@@ -1,7 +1,6 @@
 body {
 	font-family: "Microsoft Yahei", Arial, Helvetica, sans-serif;
 	font-size:14px;
-	
 }
 .section {color: #fff;}
 .banner{ 
@@ -19,7 +18,7 @@ body {
     padding-right: 200px;
     padding-left: 200px;
 }
-.section1 { 
+.section-vision { 
 	background: url("http://7xnh17.com1.z0.glb.clouddn.com/1.jpg") no-repeat center center fixed;
 	 -webkit-background-size: cover;
 	 -moz-background-size: cover;
@@ -46,20 +45,20 @@ body {
 	float:right;
 	text-align:center;
 }
-.section21 {	
+.section-product {	
 	background:url("http://7xnh17.com1.z0.glb.clouddn.com/c9e42240.jpg") no-repeat;
 	background-position:center;
 }
-.section22 { 
+.section-backstage { 
 	background:url("http://7xnh17.com1.z0.glb.clouddn.com/89AZTB8E5H.jpg") no-repeat;
 	background-position:center;
 	color:#000000;
 }
-.section23 { 
+.section-repair { 
 	background: url("http://7xnh17.com1.z0.glb.clouddn.com/15134A07A3.jpg") no-repeat;
 	background-position:center;
 }
-.section3 { 
+.section-advantage { 
 	color:#00AEEF;
 	text-align:center;
 	font-size:1.5em;
